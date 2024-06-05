@@ -1,3 +1,4 @@
+# Medical Claims Analysis
 This dataset, sourced from a medical claim data analysis study, includes columns for Payer, Service, Age Group, Gender, Year, and Cost. It provides a comprehensive view of healthcare expenditures segmented by payer type, service type, age group, and gender across multiple years.
 
 <img src="https://github.com/HsuAthena/Tableau/blob/main/Image/Medical%20Claims%20Analysis%20Dashboard.png" alt="Trends in Healthcare Costs Dashboard">
